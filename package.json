@@ -1,0 +1,23 @@
+{
+  "name": "peerjs-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mina-ima/peerjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mina-ima/peerjs/issues"
+  },
+  "homepage": "https://github.com/mina-ima/peerjs#readme",
+  "description": "",
+  "dependencies": {
+    "peer": "^1.0.2"
+  }
+}
